@@ -1,0 +1,15 @@
+org\joedan\ReliefWebUI$MyUIServlet.class
+org\joedan\model\JobOverviewModel$1.class
+org\joedan\ReliefWebUI$UpdateServlet.class
+org\joedan\model\bean\reliefweb\TimeData.class
+org\joedan\client\ReliefWebClient.class
+org\joedan\model\bean\reliefweb\SourceData.class
+org\joedan\view\JobOverviewView.class
+org\joedan\model\bean\reliefweb\JobData.class
+org\joedan\model\JobOverviewModel.class
+org\joedan\client\JobsRepository.class
+org\joedan\model\bean\reliefweb\CountryData.class
+org\joedan\model\bean\reliefweb\CityData.class
+org\joedan\model\bean\reliefweb\JobDataFields.class
+org\joedan\model\bean\reliefweb\JobDocumentData.class
+org\joedan\ReliefWebUI.class
