@@ -3,9 +3,18 @@ reliefweb-java
 
 Template for a simple Vaadin application that only requires a Servlet 3.0 container to run.
 
-
 Workflow
 ========
+
+Make sure that maven can communicate outside the firewall to download dependencies for the project.
+
+To run the application from commandline: 
+mvn clean package jetty:run-war -Pcompile-widgetset
+
+Jetty starts. 
+In a web browser: localhost:8080/update
+And to see results: localhost:8080
+
 
 To compile the entire project, run "mvn install".
 
